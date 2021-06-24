@@ -5,7 +5,7 @@ there are five main parts to the code (01-05) where we
 * first mask out redundant areas,
 * then we assemble the maps using three methods
 * we rasterize reference data and mask out evaluation areas
-* we run the evaluation using kappa
+* we confusion matrices for the evaluation
 * and last we evaluate using proportional dissimilarity (bray-curtis)
 
 accompanying csv files (transl*.csv) contain the reclassification key for harmonizing the reference data used in step 3 (rasterize)
