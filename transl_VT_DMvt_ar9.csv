@@ -1,0 +1,63 @@
+VT_code;VT_name;DMVT_ID;DMVT_code;DMVT_name
+1a;Moss snowbed;1;1a/1b;Moss snowbed / Sedge and grass snowbed
+1b;Sedge and grass snowbed;1;1a/1b;Moss snowbed / Sedge and grass snowbed
+1c;Frozen ground, leeward;2;1c;Frozen ground, leeward
+2a;Frozen ground, ridge;3;2a;Frozen ground, ridge
+2b;Dry grass heath;4;2b;Dry grass heath
+2c;Lichen heath;5;2c;Lichen heath
+2d;Mountain avens heath;6;2d;Mountain avens heath
+2e;Dwarf shrub heath;7;2ef;Dwarf shrub / Alpine calluna heath
+2f;Alpine calluna heath;7;2ef;Dwarf shrub / Alpine calluna heath
+2g;Alpine damp heath;8;2g;Alpine damp heath
+3a;Low herb meadow;9;3a/3b;Low herb / forb meadow
+3b;Low forb meadow;9;3a/3b;Low herb / forb meadow
+4a;Lichen and heather birch forest;10;4a;Lichen and heather birch forest
+4b;Bilberry birch forest;11;4b;Bilberry birch forest
+4c;Meadow birch forest;12;4c;Meadow birch forest
+4d;Birch forest on lime soils;NA;NA;NA
+4e;Alder forest;13;4e;Alder forest
+4f;Flood-plain shrubs;14;4g;Pasture land forest
+4g;Pasture land forest;NA;NA;NA
+5a;Poor broadleaf deciduous forest;15;5a/5b;Poor / Rich broadleaf deciduous forest
+5b;Rich broadleaf deciduous forest;15;5a/5b;Poor / Rich broadleaf deciduous forest
+6a;Lichen and heather pine forest;16;6a;Lichen and heather pine forest
+6b;Bilberry pine forest;17;6b;Bilberry pine forest
+6c;Meadow pine forest;NA;NA;NA
+6d;Pine forest on lime soils;NA;NA;NA
+7a;Lichen & heather spruce forest;18;7a;Lichen & heather spruce forest
+7b;Bilberry spruce forest;19;7b;Bilberry spruce forest
+7c;Meadow spruce forest;20;7c;Meadow spruce forest
+8a;Damp forest;21;8a;Damp forest
+8b;Bog forest;22;8b;Bog forest
+8c;Poor swamp forest;23;8c/8d;Poor / rich swamp forest
+8d;Rich swamp forest;23;8c/8d;Poor / rich swamp forest
+9a;Bog;24;9a/9d;Bog / Mud-bottom fen and bog
+9b;Deer-grass fen;25;9b/9c;Deer-grass fen / fen
+9c;Fen;25;9b/9c;Deer-grass fen / fen
+9d;Mud-bottom fen and bog;24;9a/9d;Bog / Mud-bottom fen and bog
+9e;Sedge marsh;26;9e;Sedge marsh
+10a;Coastal heath;27;10a/10b;Coastal heath / Coastal calluna heath
+10b;Coastal calluna heath;27;10a/10b;Coastal heath / Coastal calluna heath
+10c;Damp heath;28;10c;Damp heath
+10d;Crags and thicket;NA;NA;NA
+10e;Moist and shore meadows;NA;NA;NA
+10f;Sand dunes and gravel beaches;NA;NA;NA
+10g;Pioneer alluvial vegetation;NA;NA;NA
+11a;Cultivated land;NA;NA;NA
+11b;Pastures;29;11b;Pastures
+12a;Barren land;NA;NA;NA
+12b;Boulder field;30;12b;Boulder field
+12c;Exposed bedrock;31;12c;Exposed bedrock
+12d;Built-up areas;NA;NA;NA
+12e;Scattered housing;NA;NA;NA
+12f;Artificial impediment;NA;NA;NA
+12g;Glaciers and perpetual snow;NA;NA;NA
+FI;Finnland;NA;NA;NA
+Fin;Finnland;NA;NA;NA
+Hav;Sea and ocean;NA;NA;NA
+RU;Russia;NA;NA;NA
+Sv;Sweden;NA;NA;NA
+Swe;Sweden;NA;NA;NA
+SWE;Sweden;NA;NA;NA
+Van;Water bodies (fresh);NA;NA;NA
+Ho;Ho;NA;NA;NA
