@@ -12,3 +12,7 @@ accompanying csv files (transl*.csv) contain the reclassification key for harmon
 
 Excel files contain results in raw form, later imported into the final manuscript
 
+Output raster datasets for the three methods are available through the [ZENODO repository](https://doi.org/10.5281/zenodo.5024741)
+* probability-based method
+* performance-based method
+* prevalence-based method
